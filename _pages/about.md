@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master's student studying at [Southern University of Science and Technology](https://www.sustech.edu.cn/) 
-
 I am a Master's student pursuing my studies at the Southern University of Science and Technology ( [SUSTech](https://www.sustech.edu.cn/) ), researching on accelerating algorithms for deep packet inspection in network security. 
 
 You can find my CV here: [Qian You's Curriculum Vitae](../assets/Resume_yq.pdf).
